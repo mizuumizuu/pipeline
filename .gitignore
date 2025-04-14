@@ -1,0 +1,7 @@
+data/
+venv/
+**/__pycache__
+airflow/logs
+airflow/plugins
+airflow/config
+postgres-volume
